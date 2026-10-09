@@ -1,4 +1,7 @@
 <Solution>
+  <Project Path="Hamnens Jagged Array/Hamnens Jagged Array.csproj" />
   <Project Path="passageraröversikten/passageraröversikten.csproj" />
+  <Project Path="Sektionslagret på kajen/Sektionslagret på kajen.csproj" />
   <Project Path="sjokorts-koordinaterna/sjokorts-koordinaterna.csproj" />
+  <Project Path="Temperaturloggen för frysfacken/Temperaturloggen för frysfacken.csproj" />
 </Solution>
